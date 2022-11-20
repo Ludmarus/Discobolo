@@ -8,10 +8,11 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 Ludmarus: Luis Martín Asenjo (Gestor del proyecto)
-<<<<<<< HEAD
-
-=======
 Alanchares: Alberto Lanchares Diez
 Kiketudo: Enrique Estébanez fernández
 EduardoGarciadeLeaniz: Eduardo García de Leániz Juarros
+<<<<<<< HEAD
+
+=======
+
 >>>>>>> f25a26804d73d9723b90a79cbd86e8eea10cb82d
