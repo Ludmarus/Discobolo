@@ -18,7 +18,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 ---
 ### Descripción del proyecto ###
-//TODO
+Discobolo es una aplicación de resultados diseñada para que los usuarios puedan acceder rápida y fácilmente a información sobre distintos eventos deportivos
 
 ### Estado del proyecto ###
 Este proyecto se encuentra en su versión Beta. Nuestro esquipo esta en proceso de mejorar la aplicación y sus funcionalidades.
