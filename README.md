@@ -29,8 +29,14 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 //TODO: Guía de instalación y funcionamiento (se omite, el producto final es una página web)
 
 ### Sobre nosotros ###
-//TODO
+Discobolo está siendo desarrollado por Faucet Collective, un grupo de estudiantes de la Universidad de Burgos.
+
+En Faucet Collective tenemos el objetivo de unificar el mundo del deporte en una sola plataforma, y de acercar los profesionales del deporte a su comunidad de seguidores.
 
 ---
 ### Tecnologías utilizadas ###
-//TODO
+Discobolo está siendo desarrollado empleando las siguientes herramientas:
+- [Visual Studio](https://visualstudio.microsoft.com/es/)
+- [Miro](https://miro.com/es/)
+- [Github](https://github.com)
+- [Inkscape](https://inkscape.org/es/)
