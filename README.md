@@ -18,16 +18,16 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 ---
 ### Descripción del proyecto ###
-Discobolo es una aplicación de resultados diseñada para que los usuarios puedan acceder rápida y fácilmente a información sobre distintos eventos deportivos
+Discobolo es una aplicación de resultados diseñada para que los usuarios puedan acceder rápida y fácilmente a información sobre distintos eventos deportivos.
 
 ### Estado del proyecto ###
 Este proyecto se encuentra en su versión Beta. Nuestro esquipo esta en proceso de mejorar la aplicación y sus funcionalidades.
-Con el objetivo de obtener un feedback de los usuarios hemos publicado esta versión con la cual veremos los errores que hay en nuestro proyecto para poder corregirles y las preferencias de nuestros usuarios.
+Con el objetivo de obtener un feedback de los usuarios hemos publicado esta versión con la cual veremos los errores que hay en nuestro proyecto para poder corregirlos y las preferencias de nuestros usuarios.
 
 ### Requisitos de Discobolo ###
-Para la aplicación, requiere de un sistema operativo Android 4.5 o superior o IOS 11 o superior. Además es necasaria conexión a internet y disponer de pantalla y teclado.
+Para la aplicación, requiere de un sistema operativo Android 4.5 o superior o IOS 11 o superior. Además es necesaria conexión a internet y disponer de pantalla y teclado.
 
-En cuanto a la versión web es necesario disponer de un navegador que soporte html 5 y conexión a internet.
+En cuanto a la versión web es necesario disponer de un navegador que soporte HTML5 y conexión a internet.
 ### Sobre nosotros ###
 Discobolo está siendo desarrollado por Faucet Collective, un grupo de estudiantes de la Universidad de Burgos.
 
