@@ -14,7 +14,13 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 ---
 
 ### Índice ###
-//TODO
+- [Intro](#GESPRO_Teoria_2022)
+- [Miembros](#miembros)
+- [Descripción del proyecto](#Descripción-del-proyecto)
+- [Estado del proyecto](#Estado-del-proyecto)
+- [ Requisitos de Discobolo ](#Requisitos-de-Discobolo)
+- [Sobre nosotros](#Sobre-nosotros)
+- [Tecnologías utilizadas](#Tecnologías-utilizadas)
 
 ---
 ### Descripción del proyecto ###
