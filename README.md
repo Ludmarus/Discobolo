@@ -24,10 +24,9 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 //TODO
 
 ### Requisitos de Discobolo ###
-//TODO
+Para la aplicación, requiere de un sistema operativo Android 4.5 o superior o IOS 11 o superior. Además es necasaria conexión a internet y disponer de pantalla y teclado.
 
-//TODO: Guía de instalación y funcionamiento (se omite, el producto final es una página web)
-
+En cuanto a la versión web es necesario disponer de un navegador que soporte html 5 y conexión a internet.
 ### Sobre nosotros ###
 //TODO
 
