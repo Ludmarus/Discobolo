@@ -21,7 +21,8 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 //TODO
 
 ### Estado del proyecto ###
-//TODO
+Este proyecto se encuentra en su versión Beta. Nuestro esquipo esta en proceso de mejorar la aplicación y sus funcionalidades.
+Con el objetivo de obtener un feedback de los usuarios hemos publicado esta versión con la cual veremos los errores que hay en nuestro proyecto para poder corregirles y las preferencias de nuestros usuarios.
 
 ### Requisitos de Discobolo ###
 //TODO
