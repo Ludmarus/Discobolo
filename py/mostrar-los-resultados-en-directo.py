@@ -1,1 +1,1 @@
-// Muestra los resultados en directo
+// Muestra los resultados en directo.
