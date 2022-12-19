@@ -11,3 +11,9 @@ tweet = api.update_status("My first tweet!")
 
 # Like the tweet you just made
 api.create_favorite(tweet.id)
+rs = ResultStream(rule_payload=rule,
+                  max_results=500,
+                  max_pages=1,
+                  **premium_search_args)
+
+print(rs)
