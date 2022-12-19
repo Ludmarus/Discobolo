@@ -1,1 +1,1 @@
-// En este apartado se encuantra la sección de comentarios
+// En este apartado se encuentra la sección de comentarios.
