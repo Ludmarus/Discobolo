@@ -108,4 +108,4 @@ parsing_layout = [
                              key="PROGRESS_{}_PARSING".format(site), visible=False)],
              [sg.Text(site, key="TEXT_{}_PARSING".format(site), visible=False)]],
             element_justification="center") for site in sb.BOOKMAKERS_BOOST]
-]
+] 
