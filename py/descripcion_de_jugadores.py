@@ -1,1 +1,1 @@
-Este apartado muestra la descripcion de cada jugador
+Este apartado muestra la descripcion de cada jugador.
